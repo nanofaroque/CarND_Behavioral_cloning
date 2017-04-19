@@ -45,7 +45,9 @@ Layer 4: Dropout Layer Drop Probability 0.2 Layer</br>
  10: Dense Layer with 100 nodes Layer</br>
   11: Dense Layer with 50 nodes Layer </br>
   12: Dense Layer with 10 nodes Layer </br>
-  13: Dense Layer with 1 node
+  13: Dense Layer with 1 node </br>
+### Video Link
+https://www.youtube.com/watch?v=ugpwtk5merk
 
 ### Dependencies
 This lab requires:
